@@ -1,0 +1,62 @@
+{
+  "uploadVideos": [
+    {
+      "id": "acfb",
+      "caption": "cars",
+      "imgUrl": "https://images-cdn.ubuy.ae/65091f10174457600239f8a8-cars-disney-pixar-movie-poster.jpg",
+      "youtubeLink": "https://www.youtube.com/embed/2LeOH9AGJQM"
+    },
+    {
+      "id": "0a4a",
+      "caption": "JUMANJI",
+      "imgUrl": "https://rukminim2.flixcart.com/image/850/1000/xif0q/poster/0/b/g/small-spos13127-poster-jumanji-sl-13127-wall-poster-13x19-inches-original-imaggefhpxsgg7zh.jpeg?q=90&crop=false",
+      "youtubeLink": "https://www.youtube.com/embed/2QKg5SZ_35I"
+    }
+  ],
+  "categories": [
+    {
+      "id": "9fa9",
+      "categoryName": "trailers",
+      "allVideos": [
+        {
+          "id": "7d6a",
+          "caption": "KARATE KID",
+          "imgUrl": "https://i.ytimg.com/vi/8catHm7b17U/maxresdefault.jpg",
+          "youtubeLink": "https://www.youtube.com/embed/uPzOyzsnmio"
+        }
+      ]
+    },
+    {
+      "id": "391b",
+      "categoryName": "movies",
+      "allVideos": [
+        {
+          "id": "f356",
+          "caption": "CARS",
+          "imgUrl": "https://images-cdn.ubuy.ae/65091f10174457600239f8a8-cars-disney-pixar-movie-poster.jpg",
+          "youtubeLink": "https://www.youtube.com/embed/2LeOH9AGJQM"
+        }
+      ]
+    }
+  ],
+  "history": [
+    {
+      "id": "03e6",
+      "caption": "JUMANJI",
+      "youtubeLink": "https://www.youtube.com/embed/2QKg5SZ_35I",
+      "timeStamp": "12/30/2024, 10:09:59 AM GMT+5:30"
+    },
+    {
+      "id": "d239",
+      "caption": "KARATE KID",
+      "youtubeLink": "https://www.youtube.com/embed/uPzOyzsnmio",
+      "timeStamp": "12/30/2024, 10:10:01 AM GMT+5:30"
+    },
+    {
+      "caption": "cars",
+      "youtubeLink": "https://www.youtube.com/embed/2LeOH9AGJQM",
+      "timeStamp": "12/30/2024, 10:48:49 PM GMT+5:30",
+      "id": "F0i4qNv"
+    }
+  ]
+}
